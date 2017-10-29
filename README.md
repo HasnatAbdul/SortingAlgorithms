@@ -20,7 +20,7 @@ to plot using GNUPLOT
 
 ## Authors
 
-* **Hasnat Abdul** - *Project* - [PurpleBooth](https://github.com/HasnatAbdul)
+* **Hasnat Abdul** - *Project* - [HasnatAbdul](https://github.com/HasnatAbdul)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
