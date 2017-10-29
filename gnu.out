@@ -1,0 +1,4 @@
+0 "Bubble sort" 0.001288
+1 "Selection sort" 0.001931
+2 "Merge sort" 0.000108
+3 "Quick sort" 9.2e-05
